@@ -1,0 +1,20 @@
+{
+    "name": "general/parsedown-extension",
+    "keywords": ["markdown", "parser", "extension"],
+    "description": "A markdown extension for parsedown.",
+    "type": "library",
+    "require": {
+        "erusev/parsedown": "^1.7"
+    },
+    "autoload": {
+        "psr-0": {"ParsedownExtension": ""}
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mrgeneral",
+            "email": "mrgeneralgoo@gmail.com",
+            "homepage": "https://www.chengxiaobai.cn/"
+        }
+    ]
+}

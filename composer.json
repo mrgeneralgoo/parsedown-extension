@@ -4,7 +4,7 @@
     "description": "A markdown extension for parsedown.",
     "type": "library",
     "require": {
-        "erusev/parsedown": "^1.8"
+        "erusev/parsedown": "^1.8.0|^1.8.0-beta-5"
     },
     "autoload": {
         "psr-0": {"ParsedownExtension": ""}

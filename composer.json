@@ -1,5 +1,5 @@
 {
-    "name": "general/parsedown-extension",
+    "name": "mrgeneral/parsedown-extension",
     "keywords": ["markdown", "parser", "extension"],
     "description": "A markdown extension for parsedown.",
     "type": "library",

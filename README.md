@@ -4,7 +4,7 @@ A markdown extension for [parsedown](https://github.com/erusev/parsedown) , supp
 
 ## Installation
 
-Include both `Parsedown.php` and `ParsedownExtension.php` .
+Include both `Parsedown.php` and `ParsedownExtension.php` or install [the composer package](https://packagist.org/packages/mrgeneral/parsedown-extension).
 
 ## Example
 
